@@ -1,0 +1,9 @@
+#hero{
+    background-image: url(./peak-of-the-world-wallpaper.jpg);
+    position: static;
+
+    z-index: 1;
+    background-position: top centre;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
